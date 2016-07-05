@@ -6,7 +6,6 @@ use Illuminate\Database\Seeder;
  *
  * @Author Heriberto Monterrubio <heri185403@gmail.com> at <>
  * @Date 2016-02-18
- * @Copyright Copyright (c) 2016 - famsa.com
  */
 
 class UsersTableSeeder extends Seeder
