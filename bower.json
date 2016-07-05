@@ -1,0 +1,14 @@
+{
+  "name": "admin.example",
+  "dependencies": {
+    "admin-lte": "2.3.*",
+    "components-font-awesome": "4.4.*",
+    "ionicons": "2.0.*",
+    "html5shiv ": "3.7.*",
+    "respond": "1.4.*",
+    "moment": "^2.11.2",
+    "x-editable": "1.*",
+    "bootstrap-treeview": "1.*",
+    "vue": "^1.0.21"
+  }
+}
